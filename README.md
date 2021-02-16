@@ -36,6 +36,6 @@ Links
 
 ## Pages
 
-![] (assets/ScreenShot.png)
+![](assets/ScreenShot.png)
 
 
