@@ -33,3 +33,7 @@ style.css
 README.md
 
 Links
+
+## Pages
+
+![] (assets/Screen Shot 2021-02-16 at 8.55.38 AM.png)
