@@ -24,8 +24,7 @@ Save button saves to local storage
 ## Events must be persitant
 
 ## Files & directories
-index.html
-https://github.com/Dirk44/Day-Planner/blob/main/assets/Screen%20Shot%202021-02-16%20at%208.55.38%20AM.png
+
 
 script.js
 
