@@ -34,8 +34,8 @@ README.md
 
 ## Links
 
-###GitHub repo- https://dirk44.github.io/Day-Planner/
-
+### Webpage- https://dirk44.github.io/Day-Planner/
+### GitHub repo- https://github.com/Dirk44/Day-Planner.git
 
 ## Pages
 
