@@ -36,4 +36,4 @@ Links
 
 ## Pages
 
-![] (assets/Screen Shot 2021-02-16 at 8.55.38 AM.png)
+![] (/assets/Screen%20Shot%202021-02-16%20at%208.55.38%20AM.png)
