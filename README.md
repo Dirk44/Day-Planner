@@ -26,6 +26,8 @@ Save button saves to local storage
 ## Files & directories
 
 
+index.html
+
 script.js
 
 style.css
